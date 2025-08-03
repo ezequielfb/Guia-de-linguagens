@@ -483,3 +483,11 @@ Toda contribuição é bem-vinda e ajuda a tornar este guia ainda melhor para a 
 - Adicione comentários explicativos no código
 - Teste os exemplos antes de enviar
 - Siga o padrão de formatação do README.md
+
+#### Para Adicionar Novas Linguagens:
+- Atualize **todas** as tabelas comparativas
+- Adicione arquivo de exemplo em `exemplos/`
+- Inclua seção completa com todas as subseções padrão
+- Atualize o badge de contagem de linguagens
+- Adicione instruções de compilação (se aplicável)
+- Use emoji consistente com o tema da linguagem
