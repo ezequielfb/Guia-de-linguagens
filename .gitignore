@@ -1,0 +1,49 @@
+# Arquivos de documentação local (não necessários no GitHub)
+ARQUIVOS_GITHUB.md
+
+# Arquivos executáveis compilados
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Arquivos temporários do VS Code
+.vscode/launch.json
+.vscode/settings.json
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de compilação
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Pasta de node_modules (se houver projetos JS)
+node_modules/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Arquivos temporários do C#
+bin/
+obj/
+*.user
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
