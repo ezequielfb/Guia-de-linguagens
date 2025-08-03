@@ -490,4 +490,4 @@ Toda contribuição é bem-vinda e ajuda a tornar este guia ainda melhor para a 
 - Inclua seção completa com todas as subseções padrão
 - Atualize o badge de contagem de linguagens
 - Adicione instruções de compilação (se aplicável)
-- Use emoji consistente com o tema da linguagem
+- O emoji não é obrigatorio, mas se optar, utilize um consistente com o tema da linguagem
